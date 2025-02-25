@@ -1,0 +1,27 @@
+{
+  "name": "clase-de-lalo",
+  "version": "1.0.0",
+  "description": "clase feb-jun 2025 TC2005b",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorainvglezr/clase-de-lalo.git"
+  },
+  "keywords": [
+    "clase",
+    "lalo"
+  ],
+  "author": "Lorain González",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lorainvglezr/clase-de-lalo/issues"
+  },
+  "homepage": "https://github.com/lorainvglezr/clase-de-lalo#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
